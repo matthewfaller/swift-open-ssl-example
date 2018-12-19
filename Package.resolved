@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OpenSSL",
+        "repositoryURL": "https://github.com/matthewfaller/OpenSSL",
+        "state": {
+          "branch": null,
+          "revision": "05468b2c4c05e043f655664ca91493902112df29",
+          "version": "2.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
